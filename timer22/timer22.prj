@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="timer22" location="C:/Users/reut0/workspace/timer22" platform="C:/Users/reut0/workspace/Gpio/export/Gpio/Gpio.xpfm" platformUID="vendor:kria_kr260:kria_gpio:1.0(custom)" systemProject="timer22_system" sysConfig="Gpio" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexr5_0" os="standalone" mssSignature="23e36618e8f8baba1e6b03e2843773ef">
+  <configuration name="Debug" id="xilinx.gnu.arm.r5.exe.debug.1782430706" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.r5.exe.release.1784821587" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="memory_tests"/>
+</sdkproject:SdkProject>
